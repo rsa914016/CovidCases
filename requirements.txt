@@ -1,4 +1,4 @@
 folium
 pandas
-Flask
-gunicornguys 
+Flask == 1.1.2
+gunicorn
